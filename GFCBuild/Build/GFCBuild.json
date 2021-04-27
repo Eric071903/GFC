@@ -1,0 +1,14 @@
+{
+"companyName": "BHS GameDesign",
+"productName": "Robinhood",
+"dataUrl": "GFCBuild.data.unityweb",
+"wasmCodeUrl": "GFCBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "GFCBuild.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "GFCBuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
